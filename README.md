@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-javader-mcp-sentry-custom-badge.png)](https://mseep.ai/app/mcp-mirror-javader-mcp-sentry-custom)
+
 Below is a revised and polished version of the README.md for the `mcp-sentry-custom` project, formatted properly for clarity, correctness, and professionalism. It adheres to standard Markdown conventions and organizes the content into logical sections.
 
 ---
